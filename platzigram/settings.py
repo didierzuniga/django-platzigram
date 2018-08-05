@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     
     # Local Apps
     'posts.apps.PostsConfig',
+    'users'
 ]
 
 MIDDLEWARE = [
@@ -109,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Bogota'
 
 USE_I18N = True
 
