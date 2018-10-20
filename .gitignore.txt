@@ -5,8 +5,8 @@
 # Created by https://www.gitignore.io/api/django
 
 ### Own ###
-media/users/pictures/*
-media/posts/pictures/*
+#media/users/pictures/*
+#media/posts/photos/*
 static/img/*
 
 ### Django ###
